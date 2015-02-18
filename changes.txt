@@ -1,0 +1,3 @@
+Yingying Wang
+1127423
+1.I change the variable name of given double in push method, it's more clear than only use d.
